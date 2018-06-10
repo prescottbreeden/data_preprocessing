@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528585347833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1383280942",
+    "id" : "F1B527F8",
+    "lastKnownWriteTime" : 1528591968,
+    "last_content_update" : 1528591968108,
+    "path" : "/code/udemy/Kirill_machine_learning/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/data_preprocessing_template.R",
+    "project_path" : "data_preprocessing_template.R",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
